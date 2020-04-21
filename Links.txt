@@ -1,0 +1,17 @@
+https://notebooks.azure.com/michaeljnedgar/projects/artificialintelligence
+
+https://scikit-learn.org/stable/datasets/index.html
+
+https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
+
+https://scikit-learn.org/stable/modules/sgd.html#classification
+
+http://developer.tobiipro.com/python/python-getting-started.html
+
+https://www.kaggle.com/mrisdal/fake-news
+
+https://www.kaggle.com/chrisfilo/onion-or-not
+
+https://www.kaggle.com/salmanhiro/onn-onion-neural-network-with-lstm-85-accuracy
+
+https://www.kaggle.com/sean49/onion-or-not-a-binary-classification-with-keras
