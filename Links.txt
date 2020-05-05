@@ -6,8 +6,6 @@ https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
 
 https://scikit-learn.org/stable/modules/sgd.html#classification
 
-http://developer.tobiipro.com/python/python-getting-started.html
-
 https://www.kaggle.com/mrisdal/fake-news
 
 https://www.kaggle.com/chrisfilo/onion-or-not
